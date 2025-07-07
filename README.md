@@ -20,6 +20,10 @@
 
 # 💻 실제 화면
 <br>
+## 전국 자동차 등록 현황 <br>
+### 경유차 등록 대수 예측
+![Image](https://github.com/user-attachments/assets/9880d299-e50c-40b8-9aba-6bde63e66bde)
+
 
 # 🖊 회고
 <br>
