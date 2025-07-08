@@ -34,6 +34,11 @@
 <img width="518" height="396" alt="Image" src="https://github.com/user-attachments/assets/6a9f610a-2711-4901-9d3d-b05b3baee4f3" /><br />
 <img width="520" height="396" alt="Image" src="https://github.com/user-attachments/assets/23f05f38-39e8-4065-b5e5-942cd94322f7" /><br />
 
+# 데이터베이스 설계 문서
+<br>
+
+<img width="1203" height="955" alt="Image" src="https://github.com/user-attachments/assets/3cbfea38-1606-4b1a-826c-777959be82a9" />
+
 # 🔍 수집 데이터
 <br>
 
@@ -88,7 +93,6 @@ GM: https://www.chevrolet.co.kr/onstar/onstar-faq
 <br>
 
 ![Image](https://github.com/user-attachments/assets/75b66221-e98a-4d03-83c4-a4a5eca9c8bf)
-
 
 # 🖊 회고
 <br>
