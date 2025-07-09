@@ -58,7 +58,7 @@ KGM:  https://www.kg-mobility.com/sr/online-center/faq
 
 GM: https://www.chevrolet.co.kr/onstar/onstar-faq
 
-# 💻 실제 화면
+# 💻 데이터조회 프로그램
 <br>
 
 ## 1.전국 자동차 등록 현황
